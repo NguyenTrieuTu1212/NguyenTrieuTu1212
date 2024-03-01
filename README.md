@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Game Developer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/">
+<img align="right" alt="Coding" width="400" src="https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/f6e3067e-280a-4fbc-b1fe-5855bf97681a">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
