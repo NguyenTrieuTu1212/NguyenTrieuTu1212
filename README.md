@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="500" src="https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/0d12a7ab-c1f6-43cc-8000-25f672c3d6cf">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 
 
