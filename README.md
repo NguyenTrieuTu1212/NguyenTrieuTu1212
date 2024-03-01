@@ -1,6 +1,9 @@
+![MasterHead]([https://happy05dz.tumblr.com/image/164289564000](http://ww25.rishavchanda.io/?subid1=20240301-1316-027a-982e-14274941c280))
 <h1 align="center">Hi 👋, I'm Nguyen Trieu Tu</h1>
 <h3 align="center">A passionate Game developer</h3>
 
+
+<img align="right" alt="Coding" width="400" src="https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentrieutu1212&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentrieutu1212" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
