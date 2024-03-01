@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Game Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/0d12a7ab-c1f6-43cc-8000-25f672c3d6cf">
 
-🔭 I’m currently working on **Unity**
+- 🔭 I’m currently working on **Unity**
 
-🌱 I’m currently learning **Unity, Android, IoT**
+- 🌱 I’m currently learning **Unity, Android, IoT**
 
-💬 Ask me about **Unity, Android**
+- 💬 Ask me about **Unity, Android**
 
-📫 How to reach me **nguyentrieutu121203@gmail.com**
+- 📫 How to reach me **nguyentrieutu121203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
