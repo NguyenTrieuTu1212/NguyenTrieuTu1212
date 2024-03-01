@@ -1,4 +1,4 @@
-![de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372](https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/e968e290-39aa-4a0c-9232-66c199d42e49)
+![tumblr_nv44lndz1l1u6xnmoo1_1280](https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/2e9724e8-f534-4e8f-9a49-343625b9fc56)
 <h1 align="center">Hi 👋, I'm Nguyen Trieu Tu</h1>
 <h3 align="center">A passionate Game developer</h3>
 
