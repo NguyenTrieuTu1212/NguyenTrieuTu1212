@@ -1,6 +1,6 @@
-
+![68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d](https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/e51b988e-ed26-4242-8c29-1068e3c0e767)
 <h1 align="center">Hi 👋, I'm Nguyen Trieu Tu</h1>
-<h3 align="center">A passionate Game developer</h3>
+<h3 align="center">A passionate Game Developer</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/">
