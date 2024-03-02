@@ -1,7 +1,6 @@
 ![68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d](https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/e51b988e-ed26-4242-8c29-1068e3c0e767)
 <h1 align="center">Hi 👋, I'm Nguyen Trieu Tu</h1>
 <h3 align="center">A passionate Game Developer</h3>
-<img align="right" alt="Coding" width="500" src="https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/0d12a7ab-c1f6-43cc-8000-25f672c3d6cf">
 
 - 🔭 I’m currently working on **Unity**
 
@@ -11,6 +10,7 @@
 
 - 📫 How to reach me **nguyentrieutu121203@gmail.com**
 
+<img align="right" alt="Coding" width="500" src="https://github.com/NguyenTrieuTu1212/NguyenTrieuTu1212/assets/143092693/0d12a7ab-c1f6-43cc-8000-25f672c3d6cf">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nguyentrieutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyentrieutu" height="30" width="40" /></a>
