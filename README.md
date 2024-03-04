@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentrieutu1212&show_icons=true&locale=en&theme=chartreuse-dark&card_width=495" alt="nguyentrieutu1212" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NguyenTrieuTu1212&theme=blueberry-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NguyenTrieuTu1212&theme=transparent)](https://git.io/streak-stats)
